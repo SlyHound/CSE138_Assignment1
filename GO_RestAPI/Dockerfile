@@ -6,7 +6,7 @@ COPY go.mod .
 COPY go.sum .
 
 RUN go mod download
-COPY ./Go_RestAPI .
+COPY . .
 
 RUN go build
 
