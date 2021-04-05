@@ -1,12 +1,12 @@
 FROM golang:latest
 
-WORKDIR /app
+WORKDIR /application
 
 COPY go.mod .
 COPY go.sum .
 
 RUN go mod download
-COPY . .
+COPY ./Go_RestAPI .
 
 RUN go build
 
