@@ -16,4 +16,10 @@ to learn Mux and to learn Gin
 
 <a href="https://www.youtube.com/watch?v=LOn1GUsjOF4&list=WL&index=12&t=254s&ab_channel=DavidAlsh"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLOn1GUsjOF4%2Fmaxresdefault.jpg&f=1&nofb=1" style="max-width: 100%"></a>
 
-I ended up going with using the [Gin](https://github.com/gin-gonic/gin) package for the Rest API. 
+I ended up going with using the [Gin](https://github.com/gin-gonic/gin) package for the Rest API.
+
+Before reading over the [documentation](https://docs.docker.com/get-started/) of Docker, I spent some time watching this Youtube video on the subject,
+
+<a href="https://www.youtube.com/watch?v=fqMOX6JJhGo&list=WL&index=10&t=1746s&ab_channel=freeCodeCamp.org"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfqMOX6JJhGo%2Fmaxresdefault.jpg&f=1&nofb=1" style="max-width: 100%"></a>
+
+After that I took a look the official Docker image on Dockerhub for [Golang](https://hub.docker.com/_/golang/) and [Python](https://hub.docker.com/_/python).
