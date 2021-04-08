@@ -1,5 +1,8 @@
 # CSE138_Assignment1
 
+## Note
+To whomever is grading my assignment, could you please grade the Go code found in the Go_RestAPI folder please. If my Go application doesn't work, I guess you could attempt my Python Flask code found in the Python_RestAPI folder. I had two programs just in-case one failed and just to try out Go for the first time!
+
 ## Acknowledgments
 Patrick Redmond, our TA for this class helped to test my Go application on
 the tests provided to us.
