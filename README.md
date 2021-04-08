@@ -7,11 +7,11 @@ the tests provided to us.
 ## Citations
 Since I did the assignment using two different languages, I consulted the documentation for [Flask](https://flask.palletsprojects.com/en/1.1.x/) in Python. For Go I needed a little more than just looking at potential Rest API documentation. Before listing those sources, I went through the guides to learn [how to write Go code](https://golang.org/doc/code), touring the many [components of Go](https://golang.org/doc/), and a more [in-depth guide on Go](https://golang.org/doc/effective_go). I watched a couple of Youtube videos, namely 
 
-<a href="https://www.youtube.com/watch?v=SonwZ6MF5BE&ab_channel=TraversyMedia"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSonwZ6MF5BE%2Fmaxresdefault.jpg&f=1&nofb=1"></a>
+<a href="https://www.youtube.com/watch?v=SonwZ6MF5BE&ab_channel=TraversyMedia"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSonwZ6MF5BE%2Fmaxresdefault.jpg&f=1&nofb=1" style="max-width: 100%"></a>
 
 to learn Mux and to learn Gin 
 
-<a href="https://www.youtube.com/watch?v=LOn1GUsjOF4&list=WL&index=12&t=254s&ab_channel=DavidAlsh"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fblog.logrocket.com%2Fwp-content%2Fuploads%2F2020%2F02%2Fhow-to-build-a-rest-api-with-golang-using-gin-and-gorm.png%3Ffit%3D730%252C487%26ssl%3D1&f=1&nofb=1"></a>
+<a href="https://www.youtube.com/watch?v=LOn1GUsjOF4&list=WL&index=12&t=254s&ab_channel=DavidAlsh"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLOn1GUsjOF4%2Fmaxresdefault.jpg&f=1&nofb=1" style="max-width: 100%"></a>
 
 I ended up going with using the [Gin](https://github.com/gin-gonic/gin) package for the Rest API.
 
