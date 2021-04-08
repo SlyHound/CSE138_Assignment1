@@ -16,7 +16,4 @@ to learn Mux and to learn Gin
 
 <a href="https://www.youtube.com/watch?v=LOn1GUsjOF4&list=WL&index=12&t=254s&ab_channel=DavidAlsh"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLOn1GUsjOF4%2Fmaxresdefault.jpg&f=1&nofb=1" style="max-width: 100%"></a>
 
-I ended up going with using the [Gin](https://github.com/gin-gonic/gin) package for the Rest API.
-
-### Note
-To whomever is grading my assignment, could you please grade the Go code found in the Go_RestAPI folder please. If my Go application doesn't work, I guess you could attempt my Python Flask code found in the Python_RestAPI folder. I had two programs just in-case one failed and just to try out Go for the first time! 
+I ended up going with using the [Gin](https://github.com/gin-gonic/gin) package for the Rest API. 
